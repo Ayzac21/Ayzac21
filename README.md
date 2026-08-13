@@ -26,22 +26,10 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayzac21&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayzac21&layout=compact&theme=github_dark" />
-</p>
-
----
-
 ## Proyectos destacados
 
-### Verifica Seguro
-Plataforma para analizar mensajes sospechosos y detectar posibles señales de phishing, fraude o extorsión.
+### 🛡️ Verifica Seguro
+Aplicación para analizar mensajes sospechosos y detectar posibles señales de phishing, fraude o extorsión.
 
-### SIMCO
-Proyecto de compras para UDG.
+### 📦 SIMCO
+Sistema de compras desarrollado para UDG.
