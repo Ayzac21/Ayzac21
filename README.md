@@ -22,6 +22,8 @@
 
 ## 🛠️ Lenguajes y tecnologías
 
+## 🛠️ Lenguajes y tecnologías
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mysql,html,css,tailwind" />
 </p>
@@ -30,6 +32,12 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,npm" />
+</p>
+
+### 🎨 Diseño y UI/UX
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps" />
 </p>
 
 ### 📚 Actualmente aprendiendo
