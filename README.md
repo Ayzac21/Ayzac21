@@ -11,11 +11,12 @@
 
 ## 👨‍💻 Sobre mí
 
-- 🚀 Actualmente trabajando en proyectos personales.
-- 🛡️ Desarrollando **Verifica Seguro**, una plataforma para identificar señales de fraude y phishing.
-- 🌱 Actualmente aprendiendo **Angular**.
-- ⚡ Trabajo principalmente con **React, Node.js y MySQL**.
-- 🔐 Interesado en desarrollo backend, arquitectura y seguridad web.
+- 💼 Desarrollador de software con experiencia en proyectos y aplicaciones web.
+- 🚀 Actualmente participo en el desarrollo y mantenimiento de distintos proyectos de software.
+- ⚡ Trabajo principalmente con **React, Node.js, JavaScript y MySQL**.
+- 🧩 Interesado en arquitectura, desarrollo backend y construcción de soluciones escalables y mantenibles.
+- 🌱 Actualmente ampliando mis conocimientos en **Angular y TypeScript**.
+- 📚 En constante aprendizaje y mejora de buenas prácticas de desarrollo.
 
 ---
 
