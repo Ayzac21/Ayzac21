@@ -22,8 +22,6 @@
 
 ## 🛠️ Lenguajes y tecnologías
 
-## 🛠️ Lenguajes y tecnologías
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mysql,html,css,tailwind" />
 </p>
